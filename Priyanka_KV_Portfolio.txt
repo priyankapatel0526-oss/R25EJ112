@@ -1,0 +1,68 @@
+# PORTFOLIO
+
+## PRIYANKA K V
+
+### Profile
+I am Priyanka K V, a Computer Science and Information technology student with a passion for technology and innovation. I am interested in software development, web technologies, and problem-solving. My goal is to build efficient applications that address real-world challenges.
+
+## Personal Details
+- Name: Priyanka K V
+- Course: B.Tech – Computer Science and Information technology
+- Department: Computer Science and Engineering
+- College: Reva university
+- Year of Study: First Year
+- Nationality: Indian
+
+## Educational Qualification
+- B.Tech (CSIT) – Pursuing
+- PUC   – Completed
+- SSLC  – Completed
+
+## Technical Skills
+- C Programming
+- Python
+- Git hub
+
+
+##Academic Mini Projects
+
+• Tourism Data Analysis (Python)
+Analyzed tourism datasets using Python to identify travel trends and visitor patterns. Used Pandas and Matplotlib for data processing and visualization.
+
+Technologies: Python, Pandas, NumPy, Matplotlib
+
+• 2D Graphic Editor (C)
+Developed a menu-driven 2D graphic editor in C for drawing and manipulating basic geometric shapes using computer graphics concepts.
+
+Technologies: C, Graphics Library (graphics.h)
+
+## Areas of Interest
+- Web Development
+- Artificial Intelligence
+- Data Science
+- Cloud Computing
+
+## Strengths
+- Quick learner
+- Good communication skills
+- Team player
+- Leadership qualities
+- Problem-solving ability
+
+## Workshops and Certifications
+- Python Programming Workshop
+- Web Development Training
+- Introduction to Artificial Intelligence
+
+
+## Career Goal
+To work as a Software Engineer in a reputed organization where I can enhance my technical knowledge and contribute to innovative projects.
+
+## Declaration
+I hereby declare that the above information is true and correct to the best of my knowledge.
+
+Date: ___________
+Place: ___________
+
+Signature:
+Priyanka K V
